@@ -13,7 +13,7 @@ NFT图片变成元宇宙里面的场景地图、宠物、房子、城市、虚�
 可根据条件解锁或者随意切换。
 
 ### 城市模型
-
+图0 (https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo1.gif)
 <img width="300" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo1.gif">
 
 
@@ -21,18 +21,20 @@ NFT图片变成元宇宙里面的场景地图、宠物、房子、城市、虚�
 ## 预览2
 
 ### 岛屿模型 ， 岛屿可大可小，可根据需求配置不同的场景，房屋街道等信息
-
+图1 (https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo4.gif)
 <img width="300" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo4.gif">
 
 切换人物形象
+图2 (https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo2.gif)
 <img width="300" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo2.gif">
 
 互动1
+图3 (https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo3.gif)
 
 <img width="300" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo3.gif">
 
 NPC 对话 获取任务信息
-
+图4 (https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo5.gif)
 <img width="300" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo5.gif">
 
 
@@ -41,7 +43,7 @@ NPC 对话 获取任务信息
 
 
 ### 移动端效果
-
+图5 (https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/phone1.gif)
 <img width="300" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/phone1.gif">
 
 
