@@ -1,5 +1,4 @@
 # 3D Meta元宇宙  元宇宙空间世界，虚拟世界
-# META-NFT-Market
 # 项目介绍 --  元宇宙空间世界，虚拟世界，沉浸式体验，数字孪生
 
 
@@ -14,26 +13,30 @@ NFT图片变成元宇宙里面的场景地图、宠物、房子、城市、虚�
 
 ### 城市模型
 图0 (https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo1.gif)
-<img width="300" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo1.gif">
+<img width="600" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo1.gif">
 
 
 
 ## 预览2
 
 ### 岛屿模型 ， 岛屿可大可小，可根据需求配置不同的场景，房屋街道等信息
+
 图1 (https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo4.gif)
 <img width="300" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo4.gif">
 
-切换人物形象
+互动1
+
 图2 (https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo2.gif)
 <img width="300" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo2.gif">
 
-互动1
+切换人物形象
+
 图3 (https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo3.gif)
 
 <img width="300" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo3.gif">
 
 NPC 对话 获取任务信息
+
 图4 (https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo5.gif)
 <img width="300" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/demo5.gif">
 
@@ -43,13 +46,14 @@ NPC 对话 获取任务信息
 
 
 ### 移动端效果
+
 图5 (https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/phone1.gif)
 <img width="300" src="https://github.com/Meta-NFT-boy/3d-meta-world/blob/main/ui/src/assets/phone1.gif">
 
 
 ## 说明
 
-预览图上的模型来源网络，仅供学习交流。需要自行替换或另外定制即可，动态配置
+预览图上的模型来源网络，仅供学习交流。需要自行替换或另外定制即可 配置
 
 
 ## 合作交流，项目答疑
